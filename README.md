@@ -118,6 +118,11 @@ while True: #--> Estrutura de repetição que cria rodadas e faz a repetição a
 #### Caso sua Energia chegue a 110%:
 ![](https://media.discordapp.net/attachments/1194334339954131054/1194714969485365329/image.png?ex=65b15c05&is=659ee705&hm=966275a7b703cad12ab600b02387059f6022e18725fd13fb3920b3c18ea7f496&=&format=webp&quality=lossless)
 
+## Abandono de Tamagotchi: 
+
+#### Caso você decida sair do jogo você vai estar abandonando seu Tamagotchi💨: 
+![](https://media.discordapp.net/attachments/1194334339954131054/1194717134249541652/image.png?ex=65b15e09&is=659ee909&hm=85a69477240cbeb27e67cbf1c7d0a824cd36e2d9acabc3802b3c8e967ddbb0c7&=&format=webp&quality=lossless)
+
 ## 👨‍💻 Como rodar o código: 
 
 #### Existem três maneiras de você rodar este código: 
@@ -125,8 +130,3 @@ while True: #--> Estrutura de repetição que cria rodadas e faz a repetição a
 #### 1° - Terminal do Pycharm
 #### 2° - Emulador de python  ---- > https://www.online-python.com/#google_vignette
 #### 3° - Terminal do Visual Studio Code
-
-## Abandono de Tamagotchi: 
-
-#### Caso você decida sair do jogo você vai estar abandonando seu Tamagotchi💨: 
-![](https://media.discordapp.net/attachments/1194334339954131054/1194717134249541652/image.png?ex=65b15e09&is=659ee909&hm=85a69477240cbeb27e67cbf1c7d0a824cd36e2d9acabc3802b3c8e967ddbb0c7&=&format=webp&quality=lossless)
