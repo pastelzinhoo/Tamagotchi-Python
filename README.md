@@ -6,7 +6,7 @@
 
 #### Um Tamagotchi é um amigo Virtual que você precisa cuidar dele alimentando, fazendo o descançar e brincando com ele mas deve tomar cuidado para não mata-lo alimenta-lo na hora certa e não abusar de mais das opções pois tudo que é exagerado pode vim a fazer mal.
 
-## Veja como o jogo foi códificado abaixo: 
+## 👨‍💻 Veja como o jogo foi códificado abaixo: 
 #### Fique a vontade para copiar e rodar na sua maquina ou em algum emulador de código python que eu irei deixar no final do Redme.
 ```python
 print("------------------------------")
@@ -117,6 +117,14 @@ while True: #--> Estrutura de repetição que cria rodadas e faz a repetição a
 
 #### Caso sua Energia chegue a 110%:
 ![](https://media.discordapp.net/attachments/1194334339954131054/1194714969485365329/image.png?ex=65b15c05&is=659ee705&hm=966275a7b703cad12ab600b02387059f6022e18725fd13fb3920b3c18ea7f496&=&format=webp&quality=lossless)
+
+## 👨‍💻 Como rodar o código: 
+
+#### Existem três maneiras de você rodar este código: 
+
+#### 1° - Terminal do Pycharm
+#### 2° - Emulador de python  ---- > https://www.online-python.com/#google_vignette
+#### 3° - Terminal do Visual Studio Code
 
 ## Abandono de Tamagotchi: 
 
